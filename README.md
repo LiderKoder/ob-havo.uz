@@ -1,3 +1,3 @@
 # BS4 orqalik scrapping
-ishlatish:
-1.
+
+© LIDERKODER 21.07.2022
